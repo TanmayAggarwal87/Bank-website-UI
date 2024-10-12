@@ -1,12 +1,13 @@
 # Bank UI Clone
 
-![Bank UI Clone](https://tanmay-bank-ui.vercel.app/) 
+##Bank UI clone(https://tanmay-bank-ui.vercel.app/) 
 ##Some screenshots
 
 ![image](https://github.com/user-attachments/assets/fc529fe7-41b0-4960-a560-46bf3fbd8658) 
 ![image](https://github.com/user-attachments/assets/65134ee0-6eb5-4f5e-afa8-e27a7017b0d2)
 ![image](https://github.com/user-attachments/assets/1cf2ef54-77df-4152-b1a1-eeacf9026dc1)
-![image](https://github.com/user-attachments/assets/481f1c59-9e67-4cc3-8b80-f6a7fb6f5cce)
+![image](https://github.com/user-attachments/assets/46790239-752d-4368-902b-a352760fb33b)
+
 
 
 
